@@ -1,0 +1,19 @@
+Started by GitHub push by anandpatilwill
+Running as SYSTEM
+Building remotely on [8mha:////4E4LnsV9sxIurxAv8BUZqCW5/IOONPYuHaIzIkZE7EEgAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAwOoBn6yfm5BaUlqUX6IMMMjAyMAWFVre3HAAAA[0mjava0203 in workspace /home/ec2-user/workspace/javaproject
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /home/ec2-user/workspace/javaproject/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/anandpatilwill/java_project1.git # timeout=10
+Fetching upstream changes from https://github.com/anandpatilwill/java_project1.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.27.0'
+ > git fetch --tags --force --progress -- https://github.com/anandpatilwill/java_project1.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision fa19c07348be92974fcfc9ef099f2860acb066c4 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f fa19c07348be92974fcfc9ef099f2860acb066c4 # timeout=10
+Commit message: "test git hook"
+ > git rev-list --no-walk 157ee76ce127d16ae7e5b4d811b08f3df9871a37 # timeout=10
+Finished: SUCCESS

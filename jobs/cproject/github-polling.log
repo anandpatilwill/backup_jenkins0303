@@ -1,0 +1,17 @@
+Started on Mar 2, 2022 6:22:08 PM
+Started by event from 140.82.115.89 ⇒ http://3.80.151.158:8080/github-webhook/ on Wed Mar 02 18:22:08 UTC 2022
+Using strategy: Default
+[poll] Last Built Revision: Revision 0641e4607f80e17b68e7b4967405fa5e0d701d95 (refs/remotes/origin/main)
+The recommended git tool is: NONE
+using credential slave
+ > git --version # timeout=10
+ > git --version # 'git version 2.27.0'
+using GIT_SSH to set credentials slave
+[INFO] Currently running in a labeled security context
+[INFO] Currently SELinux is 'enforcing' on the host
+ > /usr/bin/chcon --type=ssh_home_t /tmp/jenkins-gitclient-ssh355922155057649439.key
+ > git ls-remote -h -- https://github.com/anandpatilwill/CProject_1.git # timeout=10
+Found 1 remote heads on https://github.com/anandpatilwill/CProject_1.git
+[poll] Latest remote head revision on refs/heads/main is: ae19aa84a447181925d2e72ec54952c6a2ca4513
+Done. Took 0.12 sec
+Changes found

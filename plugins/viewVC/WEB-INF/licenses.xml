@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<l:dependencies xmlns:l='licenses' groupId='org.jenkins-ci.plugins' artifactId='viewVC' version='1.7'><l:dependency name='ViewVC Plugin' groupId='org.jenkins-ci.plugins' artifactId='viewVC' version='1.7' url='http://wiki.jenkins-ci.org/display/JENKINS/ViewVC+Plugin'><l:description>This plugin integrates the ViewVC web-viewer with Jenkins</l:description><l:license name='The MIT license' url='https://github.com/jenkinsci/viewVC-plugin/raw/master/LICENSE.txt'/></l:dependency></l:dependencies>

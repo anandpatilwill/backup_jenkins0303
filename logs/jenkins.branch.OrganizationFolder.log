@@ -1,0 +1,4 @@
+[Wed Mar 02 16:08:40 UTC 2022] Received Push event to branch master in repository anandpatilwill/java_project1 UPDATED event from 140.82.115.144 ⇒ http://3.80.151.158:8080/github-webhook/ with timestamp Wed Mar 02 16:08:35 UTC 2022
+[Wed Mar 02 16:08:40 UTC 2022] Finished processing Push event to branch master in repository anandpatilwill/java_project1 UPDATED event from 140.82.115.144 ⇒ http://3.80.151.158:8080/github-webhook/ with timestamp Wed Mar 02 16:08:35 UTC 2022. Matched 0.
+[Wed Mar 02 18:22:13 UTC 2022] Received Push event to branch main in repository anandpatilwill/CProject_1 UPDATED event from 140.82.115.89 ⇒ http://3.80.151.158:8080/github-webhook/ with timestamp Wed Mar 02 18:22:08 UTC 2022
+[Wed Mar 02 18:22:13 UTC 2022] Finished processing Push event to branch main in repository anandpatilwill/CProject_1 UPDATED event from 140.82.115.89 ⇒ http://3.80.151.158:8080/github-webhook/ with timestamp Wed Mar 02 18:22:08 UTC 2022. Matched 0.

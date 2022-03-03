@@ -1,0 +1,23 @@
+Started by GitHub push by anandpatilwill
+Running as SYSTEM
+Building remotely on [8mha:////4EwQZzETxkLYEPtaFB5EooSdD2CxtBGs0+mnABnemz4hAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZh/eT83ILSktQi/eQ8oEMNjAyMAVZAxQzIAAAA[0mcnode0203 in workspace /home/ec2-user/workspace/cproject
+The recommended git tool is: NONE
+using credential slave
+ > git rev-parse --resolve-git-dir /home/ec2-user/workspace/cproject/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/anandpatilwill/CProject_1.git # timeout=10
+Fetching upstream changes from https://github.com/anandpatilwill/CProject_1.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.27.0'
+using GIT_SSH to set credentials slave
+[INFO] Currently running in a labeled security context
+[INFO] Currently SELinux is 'enforcing' on the host
+ > /usr/bin/chcon --type=ssh_home_t /home/ec2-user/workspace/cproject@tmp/jenkins-gitclient-ssh2520855299358484833.key
+ > git fetch --tags --force --progress -- https://github.com/anandpatilwill/CProject_1.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/main^{commit} # timeout=10
+Checking out Revision ae19aa84a447181925d2e72ec54952c6a2ca4513 (refs/remotes/origin/main)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f ae19aa84a447181925d2e72ec54952c6a2ca4513 # timeout=10
+Commit message: "Update testing "
+ > git rev-list --no-walk 0641e4607f80e17b68e7b4967405fa5e0d701d95 # timeout=10
+Finished: SUCCESS
